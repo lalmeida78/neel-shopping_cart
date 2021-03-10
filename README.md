@@ -1,5 +1,7 @@
 # shoppingcart
 
+Clone the project from repo - git clone https://github.com/testabridge/shoppingcart.git
+go to project - cd shoppingcart 
 1) use mvn clean install to build the project
 2) Using embedded h2.
 3) Supporting API's
